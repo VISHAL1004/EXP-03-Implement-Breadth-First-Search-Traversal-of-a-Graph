@@ -1,8 +1,10 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 Breadth First Search Traversal of a Graph
-
-
-AIM: 
+<h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
+<h3>Name:ARUNKUMAR B </h3>
+<h3>Register Number: 212224060026</h3>
+<H3>Aim:</H3>
+<p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 Theory: 
 To Implement Breadth First Search Traversal of a Graph using Python 3. 
 
