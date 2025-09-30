@@ -69,7 +69,8 @@ Algorithm:
 4. Find its Successors Or neighbors and Check whether the node is visited or not. 
 5. If Not Visited, add it to the Queue. Else Continue. 
 6. Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes. 
-Program: 
+Program:
+```
 from collections import deque 
 from collections import defaultdict 
 ''' 
@@ -119,6 +120,9 @@ Sample Input :
 1 2 
 1 3 
 2 4 
-3 4 
+3 4
+```
+# OUTPUT
+<img width="944" height="285" alt="Screenshot 2025-09-09 082848" src="https://github.com/user-attachments/assets/c7972b22-b08f-4246-9fda-c28afdf5e676" />
 Sample Output: 
 ['0', '1', '2', '3', '4'] 
